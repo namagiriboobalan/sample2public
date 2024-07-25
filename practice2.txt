@@ -3,3 +3,4 @@ this is to show 2nd commit
 ls
 pwd
 free
+ls
